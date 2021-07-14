@@ -99,3 +99,5 @@ To add a new species is relatively simple, a 2 steps procedure has to be followe
 
 To remove a species (useful only if one wants to test a new set of parameters, the line of standard value is put in comment by writting a "#" at the beginning of the line) needs only to comment the line with a "#"
 
+# Reference: 
+Cordier, D., Bonhommeau, D.A., Vu, T.H., Choukroun, M., Sanchez, F.G, "Vertical compositional variations of liquid hydrocarbons in Titan’s alkanofers" Astronomy & Astrophysics manuscript no. alkano_AAstroPh_20210712
